@@ -22,8 +22,10 @@ Make sure the back of the switch is touching the little wall and let it dry.
 Solder wires to the switch and solder them to the board. 
 For a more clean result use crimp clamps to connect to wires the switch.
 
+<img src="/images/IMG_6963.jpg" width="20%">
+
 ## Disclaimer
 This project involves potentially lethal High-Voltage. Construction and operation of this circuit should only be performed by people familiar with best practices when operating with high voltage, and using extreme caution.
 I will not be held liable for injury or even death resulting from this part. Build and use this part only at your own risk.
 
-<img src="/images/IMG_6963.jpg" width="20%">
+
