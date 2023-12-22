@@ -3,7 +3,7 @@
 This printable is a dropin replacement for the Macintosh 128k/512k/Plus powerswitch.
 The location of the switch is marked as "SW1"
 
-![SW1 location](/powerswitch_location.jpg)
+<img src="/powerswitch_location.jpg" width="50%">
 
 
 ## Printing:
@@ -15,4 +15,4 @@ The location of the switch is marked as "SW1"
 - [x] 31X14Mm 2 position Switches (6A 250V). [Link](https://nl.aliexpress.com/item/1005003128387518.html?spm=a2g0o.order_list.order_list_main.309.7dfd79d2DbkN99&gatewayAdapt=glo2nld)
 - [x] 3D print lady PLA GLUE (to secure glue the switch on the printed bracket). [Link](https://www.amazon.nl/3DPLady-PLAGlue-3D-printer-secondelijm-componenten/dp/B0BXYCDP4J).
 
-![Image](/images/IMG_6963.jpg | width=100)
+<img src="/images/IMG_6963.jpg" width="20%">
