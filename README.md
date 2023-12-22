@@ -3,10 +3,13 @@
 This printable is a dropin replacement for the Macintosh 128k/512k/Plus powerswitch.
 The location of the switch is marked as "SW1"
 
-Printing:
+![SW1 location](/powerswitch_location.jpg)
+
+
+## Printing:
 * Print with 20% infill
 
-Used parts:
+## Used parts:
 * 2x M4x20mm (flat head)
 * 2x M4 nut (hex)
 * 31X14Mm 2 position Switches (6A 250V)
