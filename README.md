@@ -7,7 +7,7 @@ The location of the switch is marked as "SW1"
 
 
 ## Printing
-- [x] Print with 20% infill
+- [x] Print with 20% infill. No support needed.
 
 ## Used parts
 - [x] 2x M4x20mm (flat head)
