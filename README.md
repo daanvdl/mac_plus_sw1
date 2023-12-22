@@ -20,7 +20,7 @@ Secure the bracket to the analogboard with the M4x20 screws.
 Add some glue on flat surface of the bracket and slide the switch onto the bracket. 
 Make sure the back of the switch is touching the little wall and let it dry.
 Solder wires to the switch and solder them to the board. 
-For a more clean result use clamps to connect to wires the switch.
+For a more clean result use crimp clamps to connect to wires the switch.
 
 
 <img src="/images/IMG_6963.jpg" width="20%">
